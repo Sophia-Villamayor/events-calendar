@@ -1,5 +1,6 @@
 html {
   font-family: Merriweather, serif;
+  color: #333;
 }
 
 th, td {
@@ -15,7 +16,7 @@ th, td {
 .red {
   color: #991919;
   background-color: #f2bcbc;
-  border: 1px solid #991919;
+  border: 1px solid #b92828;
 }
 
 .green {
